@@ -77,5 +77,5 @@ class ComputerPlayer {
     }
 }
 
-module.exports = ComputerPlayer;
+export default ComputerPlayer;
 

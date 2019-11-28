@@ -1,5 +1,3 @@
-const readline = require('readline-sync');
-
 class HumanPlayer {
   constructor(name) {
     this.name = name;
@@ -38,5 +36,5 @@ class HumanPlayer {
   }
 }
 
-module.exports = HumanPlayer;
+export default HumanPlayer;
 

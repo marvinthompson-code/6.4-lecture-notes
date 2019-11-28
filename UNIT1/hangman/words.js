@@ -744,4 +744,4 @@ let allTheWords = [
   "young",
 ];
 
-module.exports = { allTheWords };
+export default { allTheWords };

@@ -53,7 +53,4 @@ class Game {
     }
 }
 
-let human = new HumanPlayer("corey")
-let robo = new ComputerPlayer();
-let game = new Game({ref: human, guesser: robo})
-game.play();
+export default Game;

@@ -58,4 +58,4 @@ const hangManPics = [
 ========= `,
 ];
 
-module.exports = { hangManPics }
+export default { hangManPics };
